@@ -1,5 +1,5 @@
 # MovieCharCount
-Developing tool for detecting and counting unique people/characters in a movie clip
+Developing **Real-Time Human Tracking** tool for detecting and counting unique people/characters in a Video clip
 
 
 ## Object Detection
