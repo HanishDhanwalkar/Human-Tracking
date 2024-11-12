@@ -1,2 +1,5 @@
+# Yolo weights
 *.cfg
 *.weights
+*.pt
+*.mp4
